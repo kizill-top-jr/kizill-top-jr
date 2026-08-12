@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👑 KIZILL TOP-JR — LEGENDARY DEV
 
-<!--
-**kizill-top-jr/kizill-top-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/kizill-top-jr?style=social)](https://github.com/kizill-top-jr)
+[![GitHub stars](https://img.shields.io/github/stars/kizill-top-jr?style=social)](https://github.com/kizill-top-jr)
 
-Here are some ideas to get you started:
+### 🔥 МОИ ВЕЛИКИЕ ТВОРЕНИЯ
+- **[Telegram Mod]** — эксклюзивный мод для Telegram, который ебашит лучше любого официала
+- **[My OS]** — собственная операционка
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ СТАТИСТИКА
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kizill-top-jr&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kizill-top-jr&show_icons=true&theme=radical)
+
+### 📫 КАК МЕНЯ НАЙТИ
+- Telegram: [@kizili_jr]
