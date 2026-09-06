@@ -70,10 +70,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kizill-top-jr&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff0000" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kizill-top-jr&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=ff0000&line=00ff00&point=ff0000" width="100%" />
-</div>
-
 ## 🏆 **ДОСТИЖЕНИЯ И ТРОФЕИ**
 
 <div align="center">
