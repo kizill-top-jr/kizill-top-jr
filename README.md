@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=MADE+IN+RUSSIA;ASSEMBLY+IS+MY+RELIGION;THERE+IS+NO+SPOON" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=MADE+IN+KIZILLIYA;ASSEMBLY+IS+MY+RELIGION;THERE+IS+NO+SPOON" alt="Footer" />
 </p>
