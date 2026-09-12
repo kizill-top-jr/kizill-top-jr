@@ -24,27 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=kizill-top-jr&label=👁️+REALITY+VIEWS&color=red&style=flat-square&base=1000" />
 </p>
 
-## ⚡ **МОИ ТВОРЕНИЯ — НЕ ИГРУШКИ**
-
-| Проект | Описание | Стек | Статус |
-|--------|----------|------|--------|
-| **QssGramDesktop** | Эксклюзивный Telegram-клиент с полной кастомизацией через QSS. Основа — AyuGram, но переделан под мои стандарты. Все фичи в README. | C++, Qt, QSS, CMake | ⚡ Pre-alpha (скоро релиз) |
-| **Kizill_OS** | Полноценная операционная система, написанная с нуля. Без Buildroot, Yocto, LFS. Загрузчик, ядро, драйверы, библиотеки — всё своё. Микроядро на seL4. | C, Assembly, x86_64, UEFI, seL4 | 🚧 В активной разработке |
-
 ## 🧠 **ФИЛОСОФИЯ KIZILL_OS**
 
-> *«Я не пишу код — я творю реальность.»*
-
-**Ключевые принципы:**
-
-- ⚡ **Адаптивные профили ядра** — автоматическое переключение между стабильным и турбо-режимом на основе нагрузки.
-- 🛡️ **Микроядро seL4** — верифицированная стабильность, драйверы и сервисы в userspace.
-- 🚀 **Быстрый IPC** — разделяемая память, минимизация копирования данных.
-- 🎨 **Собственный оконный сервер** — минималистичный, «ягодная» тема: чёрный фон, красные/зелёные акценты.
-- 📦 **Своя файловая система** — лёгкая, без лишних слоёв.
-- ⏱️ **Загрузка < 5 сек CLI, < 10 сек GUI** (на SSD).
-
-## 🛠️ **МОЙ СТЕК — БЕЗ КОМПРОМИССОВ**
+> *«Всё, блять, хуета заебала вот ещё одна моя хуйня, сделана без души, но, блять, нормально, нихуя не криво и не ебёт мозги»*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=assembly,c,cpp,qt,linux,bash,git,github,cmake,vim,neovim,md" />
@@ -92,11 +74,6 @@
   <a href="https://tiktok.com/@Kizill_TOP_jr"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ОСТАЛЬНОЕ-ПОШЛИ_НАХУЙ-red?style=for-the-badge&labelColor=black&color=red"/></a>
 </p>
-
-## 💬 **ЦИТАТА**
-
-> «Я строю систему, которая сожрёт ваш Linux, отрыгнёт вашу Windows и заставит ваш Mac плакать.»  
-> — *KIZILL_TOP_JR, 2026*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
