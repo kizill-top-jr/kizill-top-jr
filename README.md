@@ -41,8 +41,6 @@
   <img src="https://img.shields.io/badge/UEFI-BLACK_BELT-orange?style=for-the-badge&labelColor=black&color=orange" />
 </p>
 
-## 📊 **СТАТИСТИКА, КОТОРАЯ ЗАСТАВИТ ПЛАКАТЬ**
-
 <div align="center">
   <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=kizill-top-jr&theme=dracula&headerStyle=mac&typingSpeed=80" width="100%" />
 </div>
@@ -59,7 +57,7 @@
 - [ ] Написать свой пакетный менеджер `kzl`.
 - [ ] Портировать Kizill_OS на ARM (Raspberry Pi).
 - [ ] Создать собственный язык программирования для системного программирования.
-- [ ] Достичь 1000 звёзд на репозиториях.
+- [✅] Достичь 1000 звёзд на репозиториях.
 
 ## 📫 **ГДЕ МЕНЯ НАЙТИ (ЕСЛИ ОСМЕЛИШЬСЯ)**
 
