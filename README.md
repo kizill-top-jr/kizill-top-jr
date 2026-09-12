@@ -32,15 +32,6 @@
   <img src="https://skillicons.dev/icons?i=assembly,c,cpp,qt,linux,bash,git,github,cmake,vim,neovim,md" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ASSEMBLER-EXPERT-critical?style=for-the-badge&labelColor=black&color=red" />
-  <img src="https://img.shields.io/badge/C-EXPERT-critical?style=for-the-badge&labelColor=black&color=red" />
-  <img src="https://img.shields.io/badge/C++-ADVANCED-cyan?style=for-the-badge&labelColor=black&color=cyan" />
-  <img src="https://img.shields.io/badge/QT-ADVANCED-cyan?style=for-the-badge&labelColor=black&color=cyan" />
-  <img src="https://img.shields.io/badge/LINUX-GOD-00ff00?style=for-the-badge&labelColor=black&color=00ff00" />
-  <img src="https://img.shields.io/badge/UEFI-BLACK_BELT-orange?style=for-the-badge&labelColor=black&color=orange" />
-</p>
-
 <div align="center">
   <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=kizill-top-jr&theme=dracula&headerStyle=mac&typingSpeed=80" width="100%" />
 </div>
@@ -57,7 +48,7 @@
 - [ ] Написать свой пакетный менеджер `kzl`.
 - [ ] Портировать Kizill_OS на ARM (Raspberry Pi).
 - [ ] Создать собственный язык программирования для системного программирования.
-- [✅] Достичь 1000 звёзд на репозиториях.
+- [ ] Достичь 1000 звёзд на репозиториях.
 
 ## 📫 **ГДЕ МЕНЯ НАЙТИ (ЕСЛИ ОСМЕЛИШЬСЯ)**
 
