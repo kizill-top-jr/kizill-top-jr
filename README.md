@@ -52,12 +52,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kizill-top-jr&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff0000" width="48%" />
 </div>
 
-## 🏆 **ДОСТИЖЕНИЯ И ТРОФЕИ**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kizill-top-jr&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
-
 ## 🎯 **ТЕКУЩИЕ ЦЕЛИ (2026)**
 
 - [ ] Довести Kizill_OS до стабильной альфа-версии.
