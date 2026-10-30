@@ -13,9 +13,8 @@
 ## 📌 **О ГЛАВНОМ**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_IN_THE_MATRIX-critical?style=for-the-badge&logo=github&labelColor=black&color=red" />
+  <img src="https://img.shields.io/badge/b=Burmalda-critical?style=for-the-badge&logo=github&labelColor=black&color=red" />
   <img src="https://img.shields.io/badge/OS-KIZILL_OS_DEVELOPMENT-green?style=for-the-badge&logo=linux&labelColor=black&color=00ff00" />
-  <img src="https://img.shields.io/badge/MOD-QssGramDesktop_ALPHA-red?style=for-the-badge&logo=telegram&labelColor=black" />
   <img src="https://img.shields.io/badge/LANGUAGE-ASSEMBLER%2FC%2B%2B-cyan?style=for-the-badge&logo=assemblyscript&labelColor=black&color=cyan" />
   <img src="https://img.shields.io/badge/FOCUS-OS%20DEVELOPMENT%20%26%20MODS-orange?style=for-the-badge&labelColor=black&color=orange" />
 </div>
@@ -29,7 +28,7 @@
 > *«Всё, блять, хуета заебала вот ещё одна моя хуйня, сделана без души, но, блять, нормально, нихуя не криво и не ебёт мозги»*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=assembly,c,cpp,qt,linux,bash,git,github,cmake,vim,neovim,md" />
+  <img src="https://skillicons.dev/icons?i=assembly,c,cpp,qt,linux,bash,git,github,cmake,vim,neovim" />
 </p>
 
 <div align="center">
@@ -43,19 +42,15 @@
 
 ## 🎯 **ТЕКУЩИЕ ЦЕЛИ (2026)**
 
-- [ ] Довести Kizill_OS до стабильной альфа-версии.
-- [ ] Выпустить QssGramDesktop с полной документацией.
-- [ ] Написать свой пакетный менеджер `kzl`.
-- [ ] Портировать Kizill_OS на ARM (Raspberry Pi).
-- [ ] Создать собственный язык программирования для системного программирования.
-- [ ] Достичь 1000 звёзд на репозиториях.
+- [ ] Написать свой пакетный менеджер `kizil`
+- [ ] Довести свои репозитории до стаблиьной версии
+- [ ] Создать собственный язык программирования
 
 ## 📫 **ГДЕ МЕНЯ НАЙТИ (ЕСЛИ ОСМЕЛИШЬСЯ)**
 
 <p align="center">
-  <a href="https://t.me/Kizili_TOP"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"/></a>
-  <a href="https://tiktok.com/@Kizill_TOP_jr"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/ОСТАЛЬНОЕ-ПОШЛИ_НАХУЙ-red?style=for-the-badge&labelColor=black&color=red"/></a>
+  <a href="https://t.me/Kizill_OS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ОСТАЛЬНОЕ-мне_лень-red?style=for-the-badge&labelColor=black&color=red"/></a>
 </p>
 
 <p align="center">
