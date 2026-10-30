@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=300&color=FF0000&center=true&vCenter=true&width=1000&lines=KIZILL_TOP_JR;LEGENDARY+DEVELOPER;CREATOR+OF+KIZILL_OS;MASTER+OF+QSS+%26+ASSEMBLER;I+BUILD+WORLDS+FROM+SCRATCH;FUCK+YOUR+PROCESSORS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=300&color=FF0000&center=true&vCenter=true&width=1000&lines=KIZILL_TOP_JR;CREATOR+OF+KIZILL_OS;FUCK+YOUR+PROCESSORS" alt="Typing SVG" />
 </p>
 
 <p align="center">
