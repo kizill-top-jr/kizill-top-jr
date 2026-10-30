@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## 📌 **О ГЛАВНОМ**
+## **О ГЛАВНОМ**
 
 <div align="center">
   <img src="https://img.shields.io/badge/b=Burmalda-critical?style=for-the-badge&logo=github&labelColor=black&color=red" />
@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=kizill-top-jr&label=👁️+REALITY+VIEWS&color=red&style=flat-square&base=1000" />
 </p>
 
-## 🧠 **ФИЛОСОФИЯ KIZILL_OS**
+## **ФИЛОСОФИЯ KIZILL_OS**
 
 > *«Всё, блять, хуета заебала вот ещё одна моя хуйня, сделана без души, но, блять, нормально, нихуя не криво и не ебёт мозги»*
 
@@ -46,7 +46,7 @@
 - [ ] Довести свои репозитории до стаблиьной версии
 - [ ] Создать собственный язык программирования
 
-## 📫 **ГДЕ МЕНЯ НАЙТИ (ЕСЛИ ОСМЕЛИШЬСЯ)**
+## **ГДЕ МЕНЯ НАЙТИ (ЕСЛИ ОСМЕЛИШЬСЯ)**
 
 <p align="center">
   <a href="https://t.me/Kizill_OS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"/></a>
@@ -58,5 +58,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=MADE+IN+KIZILLIYA;ASSEMBLY+IS+MY+RELIGION;THERE+IS+NO+SPOON" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=MADE+IN+KIZILLIYA;THERE+IS+NO+SPOON" alt="Footer" />
 </p>
