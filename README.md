@@ -10,8 +10,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## **О ГЛАВНОМ**
-
 <div align="center">
   <img src="https://img.shields.io/badge/b=Burmalda-critical?style=for-the-badge&logo=github&labelColor=black&color=red" />
   <img src="https://img.shields.io/badge/OS-KIZILL_OS_DEVELOPMENT-green?style=for-the-badge&logo=linux&labelColor=black&color=00ff00" />
@@ -22,10 +20,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kizill-top-jr&label=👁️+REALITY+VIEWS&color=red&style=flat-square&base=1000" />
 </p>
-
-## **ФИЛОСОФИЯ KIZILL_OS**
-
-> *«Всё, блять, хуета заебала вот ещё одна моя хуйня, сделана без души, но, блять, нормально, нихуя не криво и не ебёт мозги»*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=assembly,c,cpp,qt,linux,bash,git,github,cmake,vim,neovim" />
@@ -39,14 +33,6 @@
   <img src="https://github-readme-stats.shion.dev/api?username=kizill-top-jr&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=ff0000&icon_color=00ff00" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kizill-top-jr&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff0000" width="48%" />
 </div>
-
-## 🎯 **ТЕКУЩИЕ ЦЕЛИ (2026)**
-
-- [ ] Написать свой пакетный менеджер `kizil`
-- [ ] Довести свои репозитории до стаблиьной версии
-- [ ] Создать собственный язык программирования
-
-## **ГДЕ МЕНЯ НАЙТИ (ЕСЛИ ОСМЕЛИШЬСЯ)**
 
 <p align="center">
   <a href="https://t.me/Kizill_OS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"/></a>
