@@ -35,14 +35,9 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/Kizill_OS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/ОСТАЛЬНОЕ-мне_лень-red?style=for-the-badge&labelColor=black&color=red"/></a>
+  <a href="https://t.me/Kizill_OS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=MADE+IN+KIZILLIYA;THERE+IS+NO+SPOON" alt="Footer" />
 </p>
