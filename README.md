@@ -12,10 +12,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Burmalda-critical?style=for-the-badge&logo=github&labelColor=black&color=red" />
-  <img src="https://img.shields.io/badge/OS-KIZILL_OS_DEVELOPMENT-green?style=for-the-badge&logo=linux&labelColor=black&color=00ff00" />
-  <img src="https://img.shields.io/badge/LANGUAGE-ASSEMBLER%2FC%2B%2B-cyan?style=for-the-badge&logo=assemblyscript&labelColor=black&color=cyan" />
-  <img src="https://img.shields.io/badge/FOCUS-OS%20DEVELOPMENT%20%26%20MODS-orange?style=for-the-badge&labelColor=black&color=orange" />
-</div>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kizill-top-jr&label=👁️+REALITY+VIEWS&color=red&style=flat-square&base=1000" />
